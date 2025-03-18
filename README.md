@@ -2,12 +2,20 @@
 Criação de CSV para google calendar a partir das resoluções eleitorais
 
 # Objetivo
-Criar um calendário acessável a partir de aplicativos de calendário para facilitar a identificação dos eventos da Justiça Eleitoral.
+Criar um conujunto de calendário acessáveis a partir de aplicativos de calendário para facilitar a identificação dos eventos da Justiça Eleitoral.
 
 # Calendário do Google
-Usei minha conta particular do Google, para disponibização pública dos eventos. 
-* [Calendário Navegável](https://calendar.google.com/calendar/u/0/embed?src=fabf9fd7b70e772e1b1790e9a71dd386fd8d58bb4c6e75b0fb5eaeb0c538fc3c@group.calendar.google.com&ctz=America/Sao_Paulo)
-* [Calendário ICS](https://calendar.google.com/calendar/ical/fabf9fd7b70e772e1b1790e9a71dd386fd8d58bb4c6e75b0fb5eaeb0c538fc3c%40group.calendar.google.com/public/basic.ics)
+Usei minha conta particular do Google, para disponibização pública dos eventos. Foram criados 3 calendários, um para cada resolução:
+
+* [Res Nº 23.736/2024-TSE](https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-no-23-736-de-27-de-fevereiro-de-2024) Dispõe sobre os atos gerais do processo eleitoral para as eleições municipais de 2024.
+** [Calendário Navegável](https://calendar.google.com/calendar/embed?src=ede4c33ef51837b7997c41ebd60adf85ec3779e5cdb60e234782e1ecc6546550%40group.calendar.google.com&ctz=America%2FSao_Paulo)
+** [Calendário ICS](https://calendar.google.com/calendar/ical/ede4c33ef51837b7997c41ebd60adf85ec3779e5cdb60e234782e1ecc6546550%40group.calendar.google.com/public/basic.ics)
+* [Res Nº 23.737/2024-TSE](https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-no-23-737-de-27-de-fevereiro-de-2024) Dispõe sobre o cronograma operacional do Cadastro Eleitoral para as Eleições 2024.
+** [Calendário Navegável](https://calendar.google.com/calendar/embed?src=2b9c37febf2ae8f77ed9d90f3c6369555804963d58d1b7d8a4a4e4c9873f66c8%40group.calendar.google.com&ctz=America%2FSao_Paulo)
+** [Calendário ICS](https://calendar.google.com/calendar/ical/2b9c37febf2ae8f77ed9d90f3c6369555804963d58d1b7d8a4a4e4c9873f66c8%40group.calendar.google.com/public/basic.ics)
+* [Res Nº 23.738/2024-TSE](https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-no-23-738-de-27-de-fevereiro-de-2024) Calendário Eleitoral (Eleições 2024).
+** [Calendário Navegável](https://calendar.google.com/calendar/embed?src=1a9063dd2e2f6c3845bfdb1d10b0783503818861319385dad28d8dd0275e09ea%40group.calendar.google.com&ctz=America%2FSao_Paulo)
+** [Calendário ICS](https://calendar.google.com/calendar/ical/1a9063dd2e2f6c3845bfdb1d10b0783503818861319385dad28d8dd0275e09ea%40group.calendar.google.com/public/basic.ics)
 
 # Calendários Carregados
 
@@ -34,6 +42,7 @@ Calendário Eleitoral (Eleições 2024).
 
 Depois de sofrer um pouco, consegui gerar de duas formas: uma resumida, conforme a seguir, e uma mais detalhada, ao final. 
 
+O Deepseek encontrou gerou quantidades diferentes de eventos nos dois modelos. Então fiz na planilha um merge entre as duas e foi esse merge que usei para dar carga no respectivo calendário.
 
 ### Versão Resumida da 23.738
 
