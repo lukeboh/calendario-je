@@ -12,7 +12,7 @@ Usei minha conta particular do Google, para disponibização pública dos evento
 	* [Calendário ICS](https://calendar.google.com/calendar/ical/ede4c33ef51837b7997c41ebd60adf85ec3779e5cdb60e234782e1ecc6546550%40group.calendar.google.com/public/basic.ics)
 * [Res Nº 23.737/2024-TSE](https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-no-23-737-de-27-de-fevereiro-de-2024) Dispõe sobre o cronograma operacional do Cadastro Eleitoral para as Eleições 2024.
 	* [Calendário Navegável](https://calendar.google.com/calendar/embed?src=2b9c37febf2ae8f77ed9d90f3c6369555804963d58d1b7d8a4a4e4c9873f66c8%40group.calendar.google.com&ctz=America%2FSao_Paulo)
-	* [Calendário ICS](https://calendar.google.com/calendar/ical/2b9c37febf2ae8f77ed9d90f3c6369555804963d58d1b7d8a4a4e4c9873f66c8%40group.calendar.google.com/public/basic.ics)
+	* [Calendário ICS](https://calendar.google.com/calendar/u/1?cid=MmI5YzM3ZmViZjJhZThmNzdlZDlkOTBmM2M2MzY5NTU1ODA0OTYzZDU4ZDFiN2Q4YTRhNGU0Yzk4NzNmNjZjOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [Res Nº 23.738/2024-TSE](https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-no-23-738-de-27-de-fevereiro-de-2024) Calendário Eleitoral (Eleições 2024).
 	* [Calendário Navegável](https://calendar.google.com/calendar/embed?src=1a9063dd2e2f6c3845bfdb1d10b0783503818861319385dad28d8dd0275e09ea%40group.calendar.google.com&ctz=America%2FSao_Paulo)
 	* [Calendário ICS](https://calendar.google.com/calendar/ical/1a9063dd2e2f6c3845bfdb1d10b0783503818861319385dad28d8dd0275e09ea%40group.calendar.google.com/public/basic.ics)
