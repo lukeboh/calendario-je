@@ -7,6 +7,26 @@ Criar um conujunto de calendário acessáveis a partir de aplicativos de calend�
 # Calendário do Google
 Usei minha conta particular do Google, para disponibização pública dos eventos. Foram criados 3 calendários, um para cada resolução:
 
+Para assinar um calendário, copie o link do respectivo calendário ICS e siga os seguinte passos:
+
+* IOS
+# Abra o app Calendário no seu iPhone ou iPad.
+# Toque em "Calendários" na parte inferior da tela.
+# Toque em "Adicionar Calendário".
+# Selecione "Adicionar Calendário Assinado".
+# Insira o URL do calendário que deseja assinar e toque em "Assinar".
+# Escolha um nome e uma cor para o calendário, se desejar.
+# Toque em "Salvar".
+
+* Android
+# Abra o app Google Agenda no seu dispositivo Android.
+# Toque em "Menu" (ícone de três linhas) no canto superior esquerdo.
+# Toque em "Configurações".
+# Toque em "Adicionar Calendário".
+# Selecione "Adicionar Calendário Assinado".
+# Insira o URL do calendário que deseja assinar e toque em "Adicionar".
+
+
 * [Res Nº 23.736/2024-TSE](https://www.tse.jus.br/legislacao/compilada/res/2024/resolucao-no-23-736-de-27-de-fevereiro-de-2024) Dispõe sobre os atos gerais do processo eleitoral para as eleições municipais de 2024.
 	* [Calendário Navegável](https://calendar.google.com/calendar/embed?src=ede4c33ef51837b7997c41ebd60adf85ec3779e5cdb60e234782e1ecc6546550%40group.calendar.google.com&ctz=America%2FSao_Paulo)
 	* [Calendário ICS](https://calendar.google.com/calendar/ical/ede4c33ef51837b7997c41ebd60adf85ec3779e5cdb60e234782e1ecc6546550%40group.calendar.google.com/public/basic.ics)
